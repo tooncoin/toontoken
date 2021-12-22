@@ -1,0 +1,14 @@
+{
+  "name": "Toon Token (ToonCoin)",
+  "version": "1.0.0",
+  "homepage": "http://tooncoin.com",
+  "license" : {
+    "type" : "BUSL-1.1",
+    "url" : "http://tooncoin.com/license"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "=0.2.2",
+    "@openzeppelin/contracts": "^4.3.2",
+    "@openzeppelin/contracts-upgradeable": "^4.3.2"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extends": "solhint:all",
+  "rules": {
+    "func-visibility": ["warn",{"ignoreConstructors":true}],
+    "comprehensive-interface": "off",
+    "not-rely-on-time": "off",
+    "func-order": "off",
+    "compiler-version": ["error","^0.8.0"]
+  }
+}
